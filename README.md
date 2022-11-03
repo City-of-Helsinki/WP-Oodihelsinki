@@ -1,2 +1,2 @@
 # oodihelsinki
-Wordpress theme for oodihelsink.fi
+Wordpress theme for oodihelsinki.fi
